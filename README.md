@@ -1,1 +1,1 @@
-# sample_jenkina
+# sample_jenkins
